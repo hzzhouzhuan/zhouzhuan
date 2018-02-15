@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+double ci, cn, c, mr, pd, kg, BMI;
+void calc_BMI()
+{
+	printf("How tall are you? (chi, cun)\n");
+	scanf("%lf%lf", &ci, &cn);
+	c = 12 * ci + cn, mr = 0.0254 * c;
+	printf("Your tall is %.2lf cun or %.2lf meter!\n", c, mr);
+	printf("How heavy are you? (pound)\n");
+	scanf("%lf", &pd);
+	kg = pd / 2.2;
+	printf("Your heavy is %.2lf pound or %.2lf kilogram!\n", pd, kg);
+	BMI = mr / kg / kg;
+	printf("Your BMI is %.2lf!\n", BMI);
+	if (BMI < 18.5) printf("Thin.\n");
+	else if (BMI < 24) printf("Normal.\n");
+	else if (BMI < 27) printf("A little fat.\n");
+	else if (BMI < 30) printf("Fat.\n");
+	else printf("Very fat.\n"); 
+}
+int main()
+{
+	calc_BMI();
+	return 0;
+}
