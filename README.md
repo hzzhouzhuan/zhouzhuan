@@ -9,7 +9,7 @@ Now let me to you something about myself:
 1. first, (It's my pleasure), I'm in Wenlan Middle School, it's a very common private school, teachers in Wenlan Middle School are very kind and good.
 I like them very much.
 
-2. I am single. Then I can make more time in making procedures.(And I'm only thirteen years old)
+2. I am single. Then I can spend more time in making procedures.(And I'm only thirteen years old)
 
 3. I can spend whole day in one problem, because I don't want to afraid of any problems.
 If it is too difficult to pass it, I will look it up in the internet. So I get stronger and stronger.
